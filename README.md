@@ -1,5 +1,13 @@
 # Data Science References
 
+## General
+
+### YouTube Channel
+* [StatQuest with Josh Starm](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [zedstatistics](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
+* [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
 ## Machine Learning Techniques 
 
 ### Books:
