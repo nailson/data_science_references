@@ -69,3 +69,20 @@ AUC, precision, recall, specificity, sensitivity, bias, F1score, RMSE,Bias and V
 
 ### Ordinal Features
 * https://www.youtube.com/watch?v=fxw_Ak4t-LY
+
+## More
+
+TODO
+
+GLM vs Logistic Regression, linear regression, poisson distribution
+Multiple linar regression assumptionsOdds ratio in Logistic regression
+Bias vs variance - overfitting, underfitting, sensitivety, etcmulticlass oversampling, undersampling
+Overfiting underfiting
+Hypothesis tests - z-test, t-test, anova, ROC
+komolgorov SmirnovMCMC - monte carlo and Markov Chain
+A/B Test - frequentist and using Bayes or multi-armed bandit testing
+Bagging and BoostingBeta distribution and binomial
+Arima and time series analsis
+Aitflow, Presto Vs HiveSpark and Hadoop
+VIF
+Kalman Filter
