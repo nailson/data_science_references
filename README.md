@@ -8,6 +8,10 @@
 * [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
+### YouTube Channel (pt/BR)
+* [Francisco Rodrigues](https://www.youtube.com/c/FranciscoRodrigues)
+* [Seja Um Data Scientist](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA)
+
 ## Machine Learning Techniques 
 
 ### Books:
